@@ -23,7 +23,8 @@ This is a GenAI-powered Streamlit app that allows you to upload resumes or docum
 
 ### 📸 Demo
 
-![Screenshot](demo.png) <!-- Optional: Add screenshot if you take one -->
+<img width="1436" alt="Screenshot 2025-04-10 at 6 13 09 p m" src="https://github.com/user-attachments/assets/43eeed86-7c68-4273-a20e-6e1184905983" />
+ <!-- Optional: Add screenshot if you take one -->
 
 ---
 
