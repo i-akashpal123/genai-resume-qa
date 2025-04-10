@@ -1,0 +1,16 @@
+📂 Document (PDF / TXT / DOCX)
+      │
+      ▼
+🔍 Detect file type
+      │
+      ▼
+📄 Read full text using:
+   └── load_pdf() / load_txt() / load_docx()
+      │
+      ▼
+✂️ Chunk the text into 1000-character pieces
+   └── With 200-character overlap (to preserve context)
+      │
+      ▼
+🧠 Return list of chunks
+   └── For embedding or question answering later

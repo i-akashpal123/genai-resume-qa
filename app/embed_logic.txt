@@ -1,0 +1,19 @@
+📑 Text Chunks (from ingest.py)
+     │
+     ▼
+🔄 Loop through each chunk
+     │
+     ▼
+📦 Wrap each chunk in a LangChain Document
+     │
+     ▼
+🔢 Use OpenAI Embedding Model
+     │
+     ▼
+📈 Convert chunks to numerical vectors
+     │
+     ▼
+📚 Store vectors in FAISS (vector database)
+     │
+     ▼
+💾 Save FAISS index to disk (folder: vector_store)
